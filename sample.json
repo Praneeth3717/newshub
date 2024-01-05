@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Million-dollar sweater: bids pour in for Diana's sheep jumper",
+    "description": "The jumper caused a stir - and speculation about the black sheep's symbolism - before her 1981 wedding.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-66811840",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B751/production/_131092964_gettyimages-79729755.jpg",
+    "publishedAt": "2023-09-14T18:07:23.4180725Z",
+    "content": "Princess Diana's sweater featuring a black sheep among rows of white ones has sold for $1.14 million (£920,000) at an auction by Sotheby's in New York.\r\nBidding opened 31 August, and the top bid stay… [+1824 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Hunter Biden indicted on federal gun charges",
+    "description": "President Biden's son Hunter is criminally charged with three counts of lying when buying a firearm, after plea deal fell apart",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-66815168",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+    "publishedAt": "2023-09-14T17:52:21.9070403Z",
+    "content": "President Biden's son Hunter is criminally charged with three counts of lying when buying a firearm, after plea deal fell apart"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Greenland cruise ship pulled free after three days stuck in mud",
+    "description": "The Ocean Explorer with 206 people on board had been stuck since Monday, with some catching Covid.",
+    "url": "http://www.bbc.co.uk/news/world-europe-66810810",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10C01/production/_131090686_ocean1.jpg",
+    "publishedAt": "2023-09-14T17:07:27.1052415Z",
+    "content": "A luxury cruise ship that has been stuck in the mud in Greenland since Monday has finally been pulled free. \r\nThe Ocean Explorer and its 206 passengers and crew were rescued on Thursday by a Greenlan… [+2190 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "BBC asks Nasa: What about reports of 'aliens' in Mexico?",
+    "description": "At a meeting on UFOs, the BBC questioned Nasa about the 'rather sensationalist' report from Mexico",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-66791954",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F062/production/_131083516_p0gdmyx8.jpg",
+    "publishedAt": "2023-09-14T17:07:25.5587519Z",
+    "content": "Tourist climbs Brussels statue, breaks it. Video, 00:00:23Tourist climbs Brussels statue, breaks it"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Nasa's UFO report: What we learned from UAP study",
+    "description": "Nasa's long-awaited report aims to demystify how it investigates unexplained phenomena.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-66812332",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14C24/production/_131082058_ufos.png",
+    "publishedAt": "2023-09-14T17:07:23.0593738Z",
+    "content": "Media caption, Watch BBC asks Nasa: What about reports of 'aliens' in Mexico?\r\nA Nasa probe into hundreds of UFO sightings found there was no evidence aliens were behind the unexplained phenomena, bu… [+3806 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Tourist climbs Brussels statue, breaks it",
+    "description": "The statue, outside the Brussels stock exchange, had just been restored at great cost.",
+    "url": "http://www.bbc.co.uk/news/world-europe-66808450",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/139C9/production/_131092308_p0gdm8pj.jpg",
+    "publishedAt": "2023-09-14T16:52:18.6833757Z",
+    "content": "An Irish tourist was filmed climbing a recently-renovated statue outside the Brussels stock exchange, causing part of it to break off.\r\nThe man was arrested and the building's management has called f… [+35 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Danelo Cavalcante: Captured US jail fugitive planned to flee to Canada",
+    "description": "Danelo Cavalcante also reportedly said officers came so close at times they almost stepped on him.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-66812420",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10175/production/_131090956_prisoner2.jpg",
+    "publishedAt": "2023-09-14T15:37:19.0227206Z",
+    "content": "Escaped Pennsylvania killer Danelo Cavalcante was planning to flee to Canada before he was captured on Wednesday, authorities say. \r\nThe 34-year-old, who was convicted of killing his ex-girlfriend, r… [+2340 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "'Worse than death itself': Survivors describe Libya floods",
+    "description": "Residents of Derna tell the BBC how they got out alive as floodwaters smashed through the city.",
+    "url": "http://www.bbc.co.uk/news/world-africa-66803111",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/174A6/production/_131089359_087757844.jpg",
+    "publishedAt": "2023-09-14T15:22:25.1523148Z",
+    "content": "Media caption, Watch: Drone footage captures submerged Libya neighbourhoods\r\nThe first sign that something was wrong was the sound of the dogs barking.\r\nIt was 2.30am and dark outside. When Husam Abd… [+5437 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "UAW prepares to strike as contract talks hit deadline",
+    "description": "Union boss Shawn Fain says companies can afford demands, including a 40% pay rise.",
+    "url": "http://www.bbc.co.uk/news/business-66803278",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C92A/production/_131089415_gettyimages-1645165815.jpg",
+    "publishedAt": "2023-09-14T15:07:26.1054744Z",
+    "content": "Staff at three of America's biggest carmakers are poised to strike in an unprecedented co-ordinated action.\r\nWith current labour contracts set to expire on Thursday night, the United Autoworkers Unio… [+3689 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Rogue Russian pilot tried to shoot down RAF aircraft in 2022",
+    "description": "The pilot fired two missiles - the first missed rather than malfunctioned, as was claimed at the time.",
+    "url": "http://www.bbc.co.uk/news/uk-66798508",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1196F/production/_127274027_russiansu27.png",
+    "publishedAt": "2023-09-14T06:22:26.6053913Z",
+    "content": "A Russian pilot tried to shoot down an RAF surveillance plane after believing he had permission to fire, the BBC has learned.\r\nThe pilot fired two missiles, the first of which missed rather than malf… [+5545 chars]"
+    }
+    ]
+    }
