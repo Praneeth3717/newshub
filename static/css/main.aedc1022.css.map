@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.aedc1022.css","mappings":"AAAA,SAEI,WAAW,CADX,UAEJ,CCHA,MACI,eACJ","sources":["App.css","components/News.css"],"sourcesContent":[".loading{\r\n    width: 30px;\r\n    height:30px;\r\n}",".alha{\r\n    margin-top: 70px;\r\n}"],"names":[],"sourceRoot":""}
