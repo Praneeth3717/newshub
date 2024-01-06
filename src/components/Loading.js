@@ -3,7 +3,7 @@ import React from 'react'
 const Loading =()=>{
   return (
     <div className='text-center my-3'>
-      <img  className="loading" src='ZZ5H.gif' alt='loadinggif'></img>
+      <img  className="loading" src='load.gif' alt='loadinggif'></img>
     </div>
   )
 }
