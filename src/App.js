@@ -15,7 +15,7 @@ const App=()=> {
         color='#f11946'
         progress={progress}
       />
-      <Routes>
+      <Routes basename='/newshub'>
         <Route path='/newshub' exact element={<News setProgress={setProgress} key="general" category="general"/>}></Route>
         <Route path='/business' exact element={<News setProgress={setProgress} key="business" category="business"/>}></Route>
         <Route path='/entertainment' exact  element={<News  setProgress={setProgress} key="entertainment" category="entertainment"/>}></Route>
