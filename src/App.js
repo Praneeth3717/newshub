@@ -3,19 +3,19 @@ import React from 'react'
 import Navbar from './components/Navbar';
 import News from './components/News';
 import LoadingBar from 'react-top-loading-bar';
-import {BrowserRouter,Route,Routes} from "react-router-dom";
+import {HashRouter,Route,Routes} from "react-router-dom";
 import { useState } from 'react';
 
 const App=()=> {
   const[progress,setProgress]=useState(0)
     return (
-      <BrowserRouter basename='/newshub'>
+      <HashRouter basename='/newshub'>
       <Navbar/>
       <LoadingBar
         color='#f11946'
         progress={progress}
       />
-      <Routes basename='/newshub'>
+      <Routes>
         <Route path='/newshub' exact element={<News setProgress={setProgress} key="general" category="general"/>}></Route>
         <Route path='/business' exact element={<News setProgress={setProgress} key="business" category="business"/>}></Route>
         <Route path='/entertainment' exact  element={<News  setProgress={setProgress} key="entertainment" category="entertainment"/>}></Route>
@@ -24,7 +24,7 @@ const App=()=> {
         <Route path='/sports' exact  element={<News setProgress={setProgress} key="sports" category="sports"/>}></Route>
         <Route path='/technology'  exact  element={<News setProgress={setProgress} key="technology" category="technology"/>}></Route>
       </Routes>
-      </BrowserRouter>
+      </HashRouter>
     )
 }
 
