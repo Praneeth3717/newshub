@@ -9,14 +9,14 @@ import { useState } from 'react';
 const App=()=> {
   const[progress,setProgress]=useState(0)
     return (
-      <HashRouter basename='#'>
+      <HashRouter basename='/'>
       <Navbar/>
       <LoadingBar
         color='#f11946'
         progress={progress}
       />
       <Routes>
-        <Route path='#' exact element={<News setProgress={setProgress} key="general" category="general"/>}></Route>
+        <Route path='/' exact element={<News setProgress={setProgress} key="general" category="general"/>}></Route>
         <Route path='/business' exact element={<News setProgress={setProgress} key="business" category="business"/>}></Route>
         <Route path='/entertainment' exact  element={<News  setProgress={setProgress} key="entertainment" category="entertainment"/>}></Route>
         <Route path='/health' exact  element={<News setProgress={setProgress} key="health" category="health"/>}></Route>
