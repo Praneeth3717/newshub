@@ -16,13 +16,13 @@ const App=()=> {
         progress={progress}
       />
       <Routes>
-        <Route path='/newshub'  element={<News setProgress={setProgress} key="general" category="general"/>}></Route>
-        <Route path='/business'  element={<News setProgress={setProgress} key="business" category="business"/>}></Route>
-        <Route path='/entertainment'   element={<News  setProgress={setProgress} key="entertainment" category="entertainment"/>}></Route>
-        <Route path='/health'   element={<News setProgress={setProgress} key="health" category="health"/>}></Route>
-        <Route path='/science'  element={<News setProgress={setProgress} key="science" category="science"/>}></Route>
-        <Route path='/sports'   element={<News setProgress={setProgress} key="sports" category="sports"/>}></Route>
-        <Route path='/technology'    element={<News setProgress={setProgress} key="technology" category="technology"/>}></Route>
+        <Route path='/newshub' exact element={<News setProgress={setProgress} key="general" category="general"/>}></Route>
+        <Route path='/business' exact element={<News setProgress={setProgress} key="business" category="business"/>}></Route>
+        <Route path='/entertainment' exact  element={<News  setProgress={setProgress} key="entertainment" category="entertainment"/>}></Route>
+        <Route path='/health' exact  element={<News setProgress={setProgress} key="health" category="health"/>}></Route>
+        <Route path='/science' exact  element={<News setProgress={setProgress} key="science" category="science"/>}></Route>
+        <Route path='/sports' exact  element={<News setProgress={setProgress} key="sports" category="sports"/>}></Route>
+        <Route path='/technology'  exact  element={<News setProgress={setProgress} key="technology" category="technology"/>}></Route>
       </Routes>
       </BrowserRouter>
     )
