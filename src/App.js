@@ -3,13 +3,13 @@ import React from 'react'
 import Navbar from './components/Navbar';
 import News from './components/News';
 import LoadingBar from 'react-top-loading-bar';
-import {HashRouter as Router,Route,Routes} from "react-router-dom";
+import {HashRouter,Route,Routes} from "react-router-dom";
 import { useState } from 'react';
 
 const App=()=> {
   const[progress,setProgress]=useState(0)
     return (
-      <Router basename='/newshub'>
+      <HashRouter basename='/newshub'>
       <Navbar/>
       <LoadingBar
         color='#f11946'
@@ -24,7 +24,7 @@ const App=()=> {
         <Route path='/sports' exact  element={<News setProgress={setProgress} key="sports" category="sports"/>}></Route>
         <Route path='/technology'  exact  element={<News setProgress={setProgress} key="technology" category="technology"/>}></Route>
       </Routes>
-      </Router>
+      </HashRouter>
     )
 }
 
